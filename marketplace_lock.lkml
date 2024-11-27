@@ -11,5 +11,5 @@ marketplace_ref: {
   override_constant: GA4_SCHEMA { value:"ga4_export" }
   override_constant: GA4_TABLE_VARIABLE { value:"events_*" }
   override_constant: EVENT_COUNT { value:"" }
-  override_constant: BQML_PARAMETER { value:"Yes" }
+  override_constant: BQML_PARAMETER { value:"No" }
 }
